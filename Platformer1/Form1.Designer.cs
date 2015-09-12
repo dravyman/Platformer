@@ -35,7 +35,7 @@
             // 
             this.player.Location = new System.Drawing.Point(156, 102);
             this.player.Name = "player";
-            this.player.Size = new System.Drawing.Size(24, 24);
+            this.player.Size = new System.Drawing.Size(48, 44);
             this.player.TabIndex = 0;
             this.player.Text = "palyer";
             this.player.UseVisualStyleBackColor = true;
